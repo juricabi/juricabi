@@ -1,4 +1,4 @@
-Just a guy that loves FPV and software. I make free, open source tools for pilots and their radios.
+Just a guy that loves FPV and software. I make free, open source tools for pilots and their radios, and more.. 
 
 - **[StickTime](https://github.com/juricabi/sticktime)** - FPV sim that runs on your EdgeTX radio ([try it in the browser](https://juricabi.github.io/sticktime/))
 - **[EdgeTX Flight Log](https://github.com/juricabi/edgetx-flight-log)** - read your flight logs right on the radio
