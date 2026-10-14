@@ -9,6 +9,6 @@ Just a guy that loves FPV and software. I make free, open source tools for pilot
 - **[fast-lua](https://github.com/juricabi/edgetx/releases/tag/fast-lua-20ms)** - my fork of [EdgeTX](https://github.com/EdgeTX/edgetx) with much faster Lua on color radios
 - **[BT AT Terminal](https://github.com/juricabi/edgetx-bt-at-terminal)** and **[GPS Plus Code Widget](https://github.com/juricabi/EdgeTX_GPS_Plus_Code_Widget)** - small EdgeTX tools
 
-The forks build on their authors' work (linked above), a coffee here goes to my part of it. If something saved you time or made you smile, a coffee helps me keep building:
+The forks build on their authors' work (linked above), a coffee here goes to my part of it. If you like what I make, you can buy me a coffee:
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/juricabi)
