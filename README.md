@@ -1,6 +1,7 @@
 Just a guy that loves FPV and software. I make free, open source tools for pilots and their radios, and more.. 
 
 - **[StickTime](https://github.com/juricabi/sticktime)** - FPV sim that runs on your EdgeTX radio ([try it in the browser](https://juricabi.github.io/sticktime/))
+- **[StickTime Pi](https://github.com/juricabi/sticktime-pi)** - turns a Raspberry Pi 4 into a virtual quad: StickTime in your analog goggles (composite to a VTX) or over HDMI, flown with your own radio
 - **[EdgeTX Flight Log](https://github.com/juricabi/edgetx-flight-log)** - read your flight logs right on the radio
 - **[Groundtrack](https://github.com/juricabi/groundtrack)** - my fork of [RomanLut's Android telemetry viewer](https://github.com/RomanLut/android-taranis-smartport-telemetry): live map and 3D terrain for FrSky, CRSF, Ghost, LTM and MAVLink
 - **[LapTimer](https://github.com/juricabi/LapTimer)** - ESP32 + RX5808 lap timer with voice and a phone UI, based on [PhobosLT](https://github.com/phobos-/PhobosLT)
