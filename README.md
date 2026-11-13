@@ -9,6 +9,7 @@ Just a guy that loves FPV and software. I make free, open source tools for pilot
 - **ELRS / Crossfire WiFi Joystick** for **[Windows](https://github.com/juricabi/ELRS-Crossfire-WiFi-Joystick-Windows)** and **[Linux](https://github.com/juricabi/ELRS-Crossfire-WiFi-Joystick-Linux)** - fly sims with your radio over WiFi, no cable
 - **[fast-lua](https://github.com/juricabi/edgetx/releases/tag/fast-lua-20ms)** - my fork of [EdgeTX](https://github.com/EdgeTX/edgetx) with much faster Lua on color radios
 - **[BT AT Terminal](https://github.com/juricabi/edgetx-bt-at-terminal)** and **[GPS Plus Code Widget](https://github.com/juricabi/EdgeTX_GPS_Plus_Code_Widget)** - small EdgeTX tools
+- **[True-D V3 mod firmware](https://github.com/juricabi/true-d-v3-mod-firmware)** - unofficial firmware for the Furious FPV True-D V3 module: much faster diversity, auto-tuning to your VTX, ELRS backpack, and channel control from Orqa, HDZero and Fat Shark goggles
 
 Everything here is free to use. I show them on [YouTube](https://www.youtube.com/@juricabi), subscribe if you like it :)
 
