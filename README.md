@@ -10,6 +10,7 @@ Just a guy that loves FPV and software. I make free, open source tools for pilot
 - **[fast-lua](https://github.com/juricabi/edgetx/releases/tag/fast-lua-20ms)** - my fork of [EdgeTX](https://github.com/EdgeTX/edgetx) with much faster Lua on color radios
 - **[BT AT Terminal](https://github.com/juricabi/edgetx-bt-at-terminal)** and **[GPS Plus Code Widget](https://github.com/juricabi/EdgeTX_GPS_Plus_Code_Widget)** - small EdgeTX tools
 - **[True-D V3 mod firmware](https://github.com/juricabi/true-d-v3-mod-firmware)** - unofficial firmware for the Furious FPV True-D V3 module: much faster diversity, auto-tuning to your VTX, ELRS backpack, and channel control from Orqa, HDZero and Fat Shark goggles
+- **[C3HT Backpack firmware](https://github.com/juricabi/c3ht-backpack-firmware)** - my fork of [ExpressLRS Backpack](https://github.com/ExpressLRS/Backpack) for ESP32-C3 VRx backpacks with a head tracker on the board: channel control and wireless head tracking for Orqa, rapidFIRE, SteadyView, RX5808, Skyzone and Fusion
 
 Everything here is free to use. I show them on [YouTube](https://www.youtube.com/@juricabi), subscribe if you like it :)
 
